@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/PWA-Dictionary/static/css/main.92d18c15.chunk.css",
+    "main.js": "/PWA-Dictionary/static/js/main.16c42237.chunk.js",
+    "main.js.map": "/PWA-Dictionary/static/js/main.16c42237.chunk.js.map",
+    "runtime-main.js": "/PWA-Dictionary/static/js/runtime-main.856b637b.js",
+    "runtime-main.js.map": "/PWA-Dictionary/static/js/runtime-main.856b637b.js.map",
+    "static/js/2.cfa01c4d.chunk.js": "/PWA-Dictionary/static/js/2.cfa01c4d.chunk.js",
+    "static/js/2.cfa01c4d.chunk.js.map": "/PWA-Dictionary/static/js/2.cfa01c4d.chunk.js.map",
+    "index.html": "/PWA-Dictionary/index.html",
+    "service-worker.js": "/PWA-Dictionary/service-worker.js",
+    "service-worker.js.map": "/PWA-Dictionary/service-worker.js.map",
+    "static/css/main.92d18c15.chunk.css.map": "/PWA-Dictionary/static/css/main.92d18c15.chunk.css.map",
+    "static/js/2.cfa01c4d.chunk.js.LICENSE.txt": "/PWA-Dictionary/static/js/2.cfa01c4d.chunk.js.LICENSE.txt",
+    "static/media/logo.css": "/PWA-Dictionary/static/media/D. logo nobg.24336b84.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.856b637b.js",
+    "static/js/2.cfa01c4d.chunk.js",
+    "static/css/main.92d18c15.chunk.css",
+    "static/js/main.16c42237.chunk.js"
+  ]
+}
