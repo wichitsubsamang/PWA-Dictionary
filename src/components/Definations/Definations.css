@@ -1,0 +1,30 @@
+.meanings {
+  display: flex;
+  flex-direction: column;
+  overflow-y: scroll;
+  scrollbar-width: thin;
+  height: 55vh;
+  border: 1px solid #D0D0D0;
+  border-radius: 23px;
+  padding: 10px 20px;
+  overflow-x: hidden;
+}
+
+.subTitle {
+  font-size: 5vw;
+  font-family: "Inter", sans-serif;
+  color: #969696;
+}
+
+.single-meaning {
+  border: 1px solid #D0D0D0;
+  display: flex;
+  flex-direction: column;
+  border-radius: 23px;
+  padding: 10px 20px;
+  margin: 10px 0;
+  font-family: "Inter", sans-serif;
+  color: #969696;
+  font-weight: 100;
+}
+
